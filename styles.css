@@ -38,8 +38,8 @@ header h1 {
 
 .photo img {
     border-radius: 50%;
-    width: 122px;
-    height: 122px;
+    width: 150px;
+    height: 150px;
     object-fit: cover;
     margin-bottom: 15px;
 }
